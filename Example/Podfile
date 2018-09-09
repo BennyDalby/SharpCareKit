@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'sharp-care-kit_Example' do
+  pod 'sharp-care-kit', :path => '../'
+
+  target 'sharp-care-kit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

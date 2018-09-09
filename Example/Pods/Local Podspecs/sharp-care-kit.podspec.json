@@ -1,0 +1,22 @@
+{
+  "name": "sharp-care-kit",
+  "version": "0.1.0",
+  "summary": "A short description of sharp-care-kit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gouravios/sharp-care-kit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gouravios": "gourav.sharma@mobileprogrammingllc.com"
+  },
+  "source": {
+    "git": "https://github.com/gouravios/sharp-care-kit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "sharp-care-kit/Classes/**/*"
+}

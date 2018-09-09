@@ -1,0 +1,16 @@
+PODS:
+  - sharp-care-kit (0.1.0)
+
+DEPENDENCIES:
+  - sharp-care-kit (from `../`)
+
+EXTERNAL SOURCES:
+  sharp-care-kit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  sharp-care-kit: c915fd9db49cc447199de664dde8f223d2e406e4
+
+PODFILE CHECKSUM: 4fc314bafcaced41d7556967c0f0bfd7c7583843
+
+COCOAPODS: 1.5.3

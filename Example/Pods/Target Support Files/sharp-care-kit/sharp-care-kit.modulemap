@@ -1,0 +1,6 @@
+framework module sharp_care_kit {
+  umbrella header "sharp-care-kit-umbrella.h"
+
+  export *
+  module * { export * }
+}
